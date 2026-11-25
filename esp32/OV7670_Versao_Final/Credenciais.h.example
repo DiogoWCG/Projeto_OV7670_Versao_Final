@@ -1,0 +1,7 @@
+#pragma once
+
+// Este arquivo e apenas um exemplo.
+// iniciar_servidor.bat gera Credenciais.h automaticamente usando o .env.
+const char *WIFI_SSID = "NOME_DO_WIFI";
+const char *WIFI_PASSWORD = "SENHA_DO_WIFI";
+const char *IP_SERVIDOR = "192.168.0.100";
