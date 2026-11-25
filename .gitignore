@@ -1,0 +1,24 @@
+# Credenciais
+.env
+**/.env
+Credenciais.h
+**/Credenciais.h
+
+# Arquivos gerados pelo servidor
+servidor/eventos/
+servidor/videos/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Arduino e editores
+build/
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
