@@ -1,0 +1,4 @@
+.env
+eventos/
+videos/
+__pycache__/
